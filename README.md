@@ -1,16 +1,39 @@
-## Hi there 👋
+# Khaled Ahmed
 
-<!--
-**khaled-ah-awad/khaled-ah-awad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer · React · Next.js · TypeScript**
 
-Here are some ideas to get you started:
+I build modern, responsive web experiences with a focus on clean interfaces, maintainable code, and practical business needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes developing and improving production websites, implementing multilingual experiences, and building frontend features with modern JavaScript tools.
+
+---
+
+### Tech stack
+
+**Frontend**  
+React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Tools & workflow**  
+Git · GitHub · Vercel · npm
+
+---
+
+### Selected work
+
+| Project | Description |
+| --- | --- |
+| [Marlin Divers](https://www.marlindivers.com) | Diving website serving customers across Hurghada and the Red Sea. |
+| [Cave Divers](https://www.cave-divers.com) | Website for diving experiences and services in the Red Sea. |
+
+---
+
+### Current focus
+
+- Building and improving production web applications.
+- Developing responsive, accessible user interfaces.
+- Working with Next.js, React, and TypeScript.
+- Improving website structure, usability, and search visibility.
+
+---
+
+<sub>Open to meaningful collaboration and opportunities to build useful web products.</sub>
