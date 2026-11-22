@@ -1,17 +1,10 @@
 <div align="center">
 
-# Khaled Ahmed
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,45:0B3B70,100:087EBD&height=220&section=header&text=Khaled%20Ahmed&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20REACT%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=15&descAlignY=60&animation=fadeIn" alt="Khaled Ahmed — Web Developer" />
 
-### Web Developer
+### Building thoughtful digital experiences.
 
-Building clean, responsive web experiences with **React**, **Next.js** and **TypeScript**.
-
-<br />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+[![GitHub](https://img.shields.io/badge/GitHub-khaled--ah--awad-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/khaled-ah-awad)
 
 </div>
 
@@ -19,28 +12,29 @@ Building clean, responsive web experiences with **React**, **Next.js** and **Typ
 
 ## About
 
-I'm a web developer focused on building and improving modern websites and web applications. I enjoy turning ideas into clear, practical interfaces and writing code that is easy to understand and maintain.
+I'm a web developer focused on creating modern websites and web applications. I enjoy turning ideas into clear, responsive interfaces and writing maintainable code.
 
-My work mainly involves frontend development, responsive layouts, multilingual websites, and improving the overall user experience.
+My work centers on frontend development, multilingual experiences, and improving usability across devices.
 
-## Technologies
+## Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript |
-| **Web fundamentals** | HTML, CSS |
-| **Styling** | Tailwind CSS |
-| **Tools** | Git, GitHub, npm, Vercel |
+<div align="center">
 
-## Currently focusing on
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,github,vercel&theme=dark" alt="Technologies: React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Git, GitHub and Vercel" />
 
-- Developing with React, Next.js, and TypeScript.
-- Building responsive and user-friendly interfaces.
-- Improving code structure and maintainability.
-- Creating better multilingual web experiences.
+</div>
+
+## What I'm focused on
+
+- Building responsive interfaces with React and Next.js.
+- Developing with TypeScript and modern JavaScript.
+- Writing clean, maintainable frontend code.
+- Creating accessible, multilingual web experiences.
 
 ---
 
 <div align="center">
-  <sub>Always learning. Always building.</sub>
+
+**Always learning. Always building.**
+
 </div>
